@@ -161,15 +161,11 @@ sudo sh django_server_start.sh
 ### 萌宠实体识别+实体分类
 
 点击实体的超链接，可以跳转到词条页面（词云采用了词向量技术）：
-![](https://github.com/wangjainru/img/blob/master/%E5%9B%BE%E7%89%87/QQ%E5%9B%BE%E7%89%8720191214094456.png)
-
-
+![](https://github.com/MrGCLLWY/-/blob/master/QQ%E5%9B%BE%E7%89%8720191214094456.png)
 ### 实体查询
 
 实体查询部分，我们能够搜索出与某一实体相关的实体，以及它们之间的关系：
-![](https://github.com/wangjainru/img/blob/master/%E5%9B%BE%E7%89%87/QQ%E5%9B%BE%E7%89%8720191213202911.png)
-
-
+![](https://github.com/MrGCLLWY/-/blob/master/QQ%E5%9B%BE%E7%89%8720191213202911.png)
 ### 关系查询
 
 关系查询即查询三元组关系entity1-[relation]->entity2 , 分为如下几种情况:
@@ -182,7 +178,7 @@ sudo sh django_server_start.sh
 * 指定第一个实体entity1和第二个实体entity2以及关系relation
 
 下图所示，是指定关系relation和第二个实体entity2的查询结果
-![](https://github.com/wangjainru/img/blob/master/%E5%9B%BE%E7%89%87/QQ%E5%9B%BE%E7%89%8720191214094551.png)
+![](https://github.com/MrGCLLWY/-/blob/master/QQ%E5%9B%BE%E7%89%8720191214094551.png)
 
 
 
